@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use GildedRose\GildedRose;
-use GildedRose\Item;
+use GildedRose\Controller\GildedRose;
+use GildedRose\Models\Item;
 
 echo 'OMGHAI!' . PHP_EOL;
 

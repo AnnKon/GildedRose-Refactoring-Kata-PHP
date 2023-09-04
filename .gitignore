@@ -1,8 +1,6 @@
-bin
-obj
-*.sln.DotSettings.user
-.vs
-vendor
-.idea
-*.iml
-csharpcore/GildedRoseTests/ApprovalTest.ThirtyDays.received.txt
+/.idea
+/build
+/vendor
+/.editorconfig
+/.phpunit.result.cache
+/composer.lock
